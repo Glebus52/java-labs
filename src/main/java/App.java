@@ -40,4 +40,7 @@ public class App {
     }
     System.out.println("Результат: " + result);
     scanner.close();
+
+
+    
 }    }
